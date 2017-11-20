@@ -1,0 +1,2 @@
+# minni
+for study
